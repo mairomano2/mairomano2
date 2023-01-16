@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Mailo! 
 - 👀 I’m interested in learning new frontend frameworks and colaborating in proyects
-- 🌱 I’m currently working on a customizable e-commerce with React and taking a backend course in Coderhouse
+- 🌱 I’m currently working on a customizable e-commerce with React and taking a backend course in Coderhouse (checkout the [currently learning](https://github.com/mairomano2/mairomano2/edit/main/README.md#currently-learning) section!)
 - 📫 You can contact me by sending an email to mairomano2@gmail.com or a message on [LinkedIn](https://www.linkedin.com/in/maia-nicole-romano-delladio-b07286172/)
 
 # Stack
@@ -21,3 +21,10 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+# Currently learning
+
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
