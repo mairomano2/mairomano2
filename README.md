@@ -22,6 +22,15 @@
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
+# Principal proyects
+🛍 [La tiendita](https://github.com/mairomano2/Ecomerce): Ecommerce developed with React, Firestore and SASS (in process).
+
+🖼 [New file gallery](https://new-file-gallery.com.ar/index.html): My first design and programming proyect. Developed with HTML, SASS, Bootstrap and Javascript.
+
+🎨 [Paint online](https://mairomano2.github.io/Paint-online/): An online drawing app similar to Minecrosoft paint. Developed with P5, SASS and Javascript.
+
+⭐ [Platinados](https://github.com/mairomano2/Platinados-React.js): A motivation app developed with React, Firestore and SASS.
+
 # Currently learning
 
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
