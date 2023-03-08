@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Mailo! 
 - 👀 I’m interested in learning new frontend frameworks and colaborating in proyects
-- 🌱 I’m currently working on a customizable e-commerce with React and taking a backend course in Coderhouse (checkout the section!)
+- 🌱 I’m currently working on a customizable e-commerce with React and taking a backend course in Coderhouse
 - 📫 You can contact me by sending an email to mairomano2@gmail.com or a message on [LinkedIn](https://www.linkedin.com/in/maia-nicole-romano-delladio-b07286172/)
 
 # Stack
